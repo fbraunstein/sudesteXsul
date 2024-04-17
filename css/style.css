@@ -1,0 +1,13 @@
+table, tr, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+}
+
+caption{
+    font-weight: bold;
+    font-style: italic;
+}
